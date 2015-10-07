@@ -6,8 +6,8 @@ This particular version has been converted from the textmate files provided by [
 
 ## Screenshots
 
-![Monokai in Vim](https://github.com/samrussell/vim-monokai/blob/master/images/monokai.png)
-![Monokai Light in Vim](https://github.com/samrussell/vim-monokai/blob/master/images/monokai-light.png)
+![Monokai in Vim](https://github.com/samrussell/vim-monokai/blob/master/screenshots/monokai.png)
+![Monokai Light in Vim](https://github.com/samrussell/vim-monokai/blob/master/screenshots/monokai-light.png)
 
 
 ## Installation
